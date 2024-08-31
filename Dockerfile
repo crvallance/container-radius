@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bookworm-20240812-slim
 
 ENV DEBIAN_FRONTEND=noninteractive
 
